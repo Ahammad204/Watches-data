@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 99",
+    "price": 399
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Watch 40",
+    "price": 249
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Versa 3",
+    "price": 229
+  },
+  {
+    "id": 4,
+    "name": "Garmin Fenix 6 Pro",
+    "price": 649
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi Watch",
+    "price": 99
+  }
+]
