@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Apple Watch Series 99",
+    "name": "Apple Watch Series 6",
     "price": 399
   },
   {
     "id": 2,
-    "name": "Galaxy Watch 40",
+    "name": "Galaxy Watch 4",
     "price": 249
   },
   {
@@ -23,5 +23,30 @@
     "id": 5,
     "name": "Xiaomi Mi Watch",
     "price": 99
+  },
+  {
+    "id": 6,
+    "name": "Huawei Watch GT 2",
+    "price": 179
+  },
+  {
+    "id": 7,
+    "name": "Fossil Gen 5",
+    "price": 295
+  },
+  {
+    "id": 8,
+    "name": "Amazfit GTS 3",
+    "price": 199
+  },
+  {
+    "id": 9,
+    "name": "Sony SmartWatch 3",
+    "price": 149
+  },
+  {
+    "id": 10,
+    "name": "Garmin Venu 2",
+    "price": 399
   }
 ]
